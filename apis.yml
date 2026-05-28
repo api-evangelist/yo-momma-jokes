@@ -1,0 +1,32 @@
+aid: yo-momma-jokes
+name: Yo Momma Jokes
+description: "REST API for Yo Momma Jokes"
+url: https://github.com/beanboi7/yomomma-apiv2
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Entertainment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Entertainment
+  - Public APIs
+apis:
+  - name: Yo Momma Jokes
+    description: "REST API for Yo Momma Jokes"
+    humanURL: https://github.com/beanboi7/yomomma-apiv2
+    baseURL: https://github.com/beanboi7/yomomma-apiv2
+    tags:
+      - Entertainment
+    properties:
+      - type: Documentation
+        url: https://github.com/beanboi7/yomomma-apiv2
+common:
+  - type: Website
+    url: https://github.com/beanboi7/yomomma-apiv2
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
